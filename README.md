@@ -11,7 +11,7 @@ with a different architecture, a custom scoring engine, and its own visual
 identity (deep slate + emerald theme, card & table dual views, KPI strip,
 donut chart).
 
-![ProspectIQ](docs/screenshot-placeholder.png)
+
 
 ---
 
